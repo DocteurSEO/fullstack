@@ -1,0 +1,19 @@
+{
+  "name": "robapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "supertest": "^6.2.2",
+    "nodemon": "^2.0.15",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
